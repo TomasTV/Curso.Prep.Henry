@@ -1,0 +1,31 @@
+
+img {width: 200px;}
+.datosP{text-align: center;}
+#Habilidades{background-color: aquamarine;
+				border-style: dotted;
+				border-radius: 10px;
+				position: relative;
+				top: 10px;}
+.Hobbit{background-color: aquamarine;
+		border-style: dotted;
+		border-radius: 10px;
+		position: relative;
+		top: 50px;}
+#FormaA{background-color: palegreen;
+		border-style: double;
+		border-radius: 10px;
+		position: relative;
+		top: 30px;}
+.EXP{background-color: palegreen;
+	border-style: double;
+	border-radius: 10px;
+	position: relative;
+	top: 70px;}
+#HY{background-color: lightskyblue;
+	border-style: dotted;
+	border-radius: 10px;
+	position: relative;
+	top: 90px;}
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-7vjnrAvjYEGgE9mJsDPtj9MIJ1dVYy2dA&usqp=CAU);
+		background-attachment: fixed;
+		background-size: cover;}
