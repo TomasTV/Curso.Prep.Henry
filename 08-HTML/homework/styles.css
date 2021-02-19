@@ -1,0 +1,36 @@
+
+			h1 {color : red;}
+			img {width: 400px;}
+			#thirdDiv {height: 600px;
+						width: 500px; 
+						background: red;
+						padding: 50px;
+						border-radius: 20px;
+						border-color: green;
+						border-style: double;
+						border-width: 15px;
+						text-align: center;
+						position: relative;
+						left: 350px;
+						}
+			#spanId {font-size: 18px;
+						margin: 50px;}
+			body{ background-image: url(https://www.trending-media.com/wp-content/uploads/2020/04/Hells-Pizza.jpg);
+					background-size: cover;
+					background-attachment: fixed;}
+			.divClass {background-color: beige;
+						padding: 5px;
+						display: flex;
+						justify-content: center;
+						align-items: center;
+						}
+			.divClass h1 {position: relative;
+							left: 110px;}
+			.divClass h3 {position: relative;
+							top: 40px;
+							left: 40px;}
+			.divClass h4 {position: relative;
+							top: 75px;
+							left: -60px;}
+
+			
